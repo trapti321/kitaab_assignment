@@ -215,10 +215,48 @@ lib/
 ## 🎨 Features
 
 - **Profile Management**: User profile with image selection
+- **Photo Capture**: Capture photos directly from camera and update profile picture
+- **Editable Profile**: Edit user name directly in the profile interface
 - **Journey Player**: Media playback interface
 - **Responsive Design**: Adapts to different screen sizes
 - **Material Design 3**: Modern UI components
 - **Cross-platform**: Works on Android, iOS, Web, and Desktop
+
+### 🎁 Bonus Features
+
+- **📸 Camera Integration**: Capture photos in real-time and instantly update your profile picture
+- **✏️ Inline Name Editing**: Tap to edit your profile name directly without navigating to separate screens
+
+## 📖 How to Use
+
+### Profile Management
+
+#### **📸 Updating Profile Picture**
+1. **Tap on your profile picture** to open the image selection options
+2. **Choose from two options:**
+   - **Camera**: Take a new photo using your device's camera
+   - **Gallery**: Select an existing photo from your photo library
+3. **Confirm your selection** and the profile picture will update instantly
+
+#### **✏️ Editing Profile Name**
+1. **Tap on your name** in the profile section
+2. **Type your new name** using the on-screen keyboard
+3. **Press "Done" or tap outside** the text field to save changes
+4. Your name will be updated automatically without leaving the screen
+
+### Navigation
+
+#### **Switching Between Screens**
+- **Profile Screen**: Main screen showing user profile and settings
+- **Journey Player**: Access the journey player by tapping the navigation button
+- Use the **app bar back button** to return to the previous screen
+
+### Tips
+
+- **Camera Permissions**: Make sure to grant camera permissions when prompted for photo capture
+- **Photo Gallery**: Ensure gallery permissions are enabled to select existing photos
+- **Auto-save**: All changes are saved automatically - no manual save required
+- **Instant Updates**: Profile changes reflect immediately across the app
 
 ## 🔧 Configuration
 
